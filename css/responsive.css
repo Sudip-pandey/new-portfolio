@@ -209,6 +209,9 @@
     .about-img-wrapper {
         padding-right: 30px;
     }
+        .about-img-wrapper .about-img-over img{
+        height: auto;
+    }
     .marquee span {
         font-size: 75px;
     }
